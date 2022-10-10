@@ -8,8 +8,8 @@
       </div>
       <div>
         © 2022 Powered by
-        <a href="https://docs.bbs-go.com" target="_blank" class="light"
-          >BBS-GO</a
+        <a href="" target="_blank" class="light"
+          >究极科技</a
         >
       </div>
     </div>

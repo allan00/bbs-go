@@ -28,7 +28,7 @@
                   v-model="email"
                   class="input is-success"
                   type="text"
-                  placeholder="请输入邮箱"
+                  placeholder="请输入邮箱,首次用邮箱登录"
                   @keyup.enter="signup"
                 />
                 <span class="icon is-small is-left">

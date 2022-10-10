@@ -6,32 +6,12 @@
         <div class="widget-content content">
           <h2>简介</h2>
           <p>
-            BBS-GO&nbsp;是一款基于Go语言研发的精美小巧的开源社区论坛系统。初期该项目仅用过学习和交流，开源之后越来越多的小伙伴儿开始喜欢和关注他，这也是我长期升级和维护的动力。
-          </p>
-
-          <p>
-            为方便大家学习和交流我们在2019年8月使用&nbsp;BBS-GO&nbsp;搭建了&nbsp;<a
-              href="https://mlog.club"
-              target="_blank"
-              >码农俱乐部</a
-            >，欢迎大家前往交流。
+          为方便业主交流，我们在2022年10月使用搭建了小区内部论坛系统。请勿发表涉政、涉黄等违法言论。
           </p>
 
           <h2>与我联系</h2>
           <p>
-            如有任何想法、意见、问题可前往&nbsp;<a
-              href="https://mlog.club"
-              target="_blank"
-              >码农俱乐部</a
-            >&nbsp;交流。
-          </p>
-          <h2>项目贡献者</h2>
-          <p>
-            <a
-              href="https://github.com/mlogclub/bbs-go/graphs/contributors"
-              target="_blank"
-              >Contributors</a
-            >
+            如有网站建站需求，可联系qq：3471461198, 电话：19530776909
           </p>
         </div>
       </div>
