@@ -28,4 +28,4 @@ nohup ./bbs-go >/dev/null 2>& 1 &
 
 echo $! > progressId.pid
 
-echo "server started"
+echo "server started,pid is $!"
